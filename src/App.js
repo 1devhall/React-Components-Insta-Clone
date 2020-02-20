@@ -21,7 +21,7 @@ const App = () => {
       
       <SearchBar />
       <PostsPage parentData = {posts} />   
-      /* Add components here  and pass props where appropriate */
+   
     </div>
   );
 };
